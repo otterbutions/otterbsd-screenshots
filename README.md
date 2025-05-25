@@ -1,4 +1,4 @@
-# otterbsd-screenshots
+# Screenshots of OtterBSD and OtterWM :3 🦦 ← otter
 
 ## Window Manager (https://github.com/otterbutions/otterbsd)
 
